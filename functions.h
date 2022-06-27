@@ -1,0 +1,2 @@
+int ultrasoon();
+float accupercentage();
